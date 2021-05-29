@@ -83,4 +83,4 @@ struct undo
     struct bowlingteam bowlingteamBrecord[8];
     struct wickets wicketsArecord[8];
     struct wickets wicketsBrecord[8];
-} steps[10]
+} steps[10];
